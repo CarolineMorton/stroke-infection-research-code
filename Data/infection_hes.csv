@@ -1,0 +1,1443 @@
+,icd,description,infect
+0,A00,cholera,1.0
+1,A00.0,"cholera due to vibrio cholerae 01, biovar cholerae",1.0
+2,A00.1,"cholera due to vibrio cholerae 01, biovar eltor",1.0
+3,A00.9,"cholera, unspecified",1.0
+4,A01,typhoid and paratyphoid fevers,1.0
+5,A01.0,typhoid fever,1.0
+6,A01.1,paratyphoid fever a,1.0
+7,A01.2,paratyphoid fever b,1.0
+8,A01.3,paratyphoid fever c,1.0
+9,A01.4,"paratyphoid fever, unspecified",1.0
+10,A02,other salmonella infections,1.0
+11,A02.0,salmonella enteritis,1.0
+12,A02.1,salmonella sepsis,1.0
+13,A02.2,localized salmonella infections,1.0
+14,A02.8,other specified salmonella infections,1.0
+15,A02.9,"salmonella infection, unspecified",1.0
+16,A03,shigellosis,1.0
+17,A03.0,shigellosis due to shigella dysenteriae,1.0
+18,A03.1,shigellosis due to shigella flexneri,1.0
+19,A03.2,shigellosis due to shigella boydii,1.0
+20,A03.3,shigellosis due to shigella sonnei,1.0
+21,A03.8,other shigellosis,1.0
+22,A03.9,"shigellosis, unspecified",1.0
+23,A04,other bacterial intestinal infections,1.0
+24,A04.0,enteropathogenic escherichia coli infection,1.0
+25,A04.1,enterotoxigenic escherichia coli infection,1.0
+26,A04.2,enteroinvasive escherichia coli infection,1.0
+27,A04.3,enterohaemorrhagic escherichia coli infection,1.0
+28,A04.4,other intestinal escherichia coli infections,1.0
+29,A04.5,campylobacter enteritis,1.0
+30,A04.6,enteritis due to yersinia enterocolitica,1.0
+31,A04.7,enterocolitis due to clostridium difficile,1.0
+32,A04.8,other specified bacterial intestinal infections,1.0
+33,A04.9,"bacterial intestinal infection, unspecified",1.0
+34,A05,"other bacterial foodborne intoxications, not elsewhere classified",1.0
+35,A05.0,foodborne staphylococcal intoxication,1.0
+36,A05.1,botulism,1.0
+37,A05.2,foodborne clostridium perfringens [clostridium welchii] intoxication,1.0
+38,A05.3,foodborne vibrio parahaemolyticus intoxication,1.0
+39,A05.4,foodborne bacillus cereus intoxication,1.0
+40,A05.8,other specified bacterial foodborne intoxications,1.0
+41,A05.9,"bacterial foodborne intoxication, unspecified",1.0
+42,A06,amoebiasis,1.0
+43,A06.0,acute amoebic dysentery,1.0
+44,A06.2,amoebic nondysenteric colitis,1.0
+45,A06.3,amoeboma of intestine,1.0
+46,A06.4,amoebic liver abscess,1.0
+47,A06.5,amoebic lung abscess,1.0
+48,A06.6,amoebic brain abscess,1.0
+49,A06.7,cutaneous amoebiasis,1.0
+50,A06.8,amoebic infection of other sites,1.0
+51,A06.9,"amoebiasis, unspecified",1.0
+52,A07,other protozoal intestinal diseases,1.0
+53,A07.0,balantidiasis,1.0
+54,A07.1,giardiasis [lambliasis],1.0
+55,A07.2,cryptosporidiosis,1.0
+56,A07.3,isosporiasis,1.0
+57,A07.8,other specified protozoal intestinal diseases,1.0
+58,A07.9,"protozoal intestinal disease, unspecified",1.0
+59,A08,viral and other specified intestinal infections,1.0
+60,A08.0,rotaviral enteritis,1.0
+61,A08.1,acute gastroenteropathy due to norwalk agent,1.0
+62,A08.2,adenoviral enteritis,1.0
+63,A08.3,other viral enteritis,1.0
+64,A08.4,"viral intestinal infection, unspecified",1.0
+65,A08.5,other specified intestinal infections,1.0
+66,A09,other gastroenteritis and colitis of infectious and unspecified origin,1.0
+67,A09.0,other and unspecified gastroenteritis and colitis of infectious origin,1.0
+68,A09.9,gastroenteritis and colitis of unspecified origin,1.0
+69,A15,"respiratory tuberculosis, bacteriologically and histologically confirmed",1.0
+70,A15.1,"tuberculosis of lung, confirmed by culture only",1.0
+71,A15.2,"tuberculosis of lung, confirmed histologically",1.0
+72,A15.3,"tuberculosis of lung, confirmed by unspecified means",1.0
+73,A15.4,"tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically",1.0
+74,A15.5,"tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically",1.0
+75,A15.6,"tuberculous pleurisy, confirmed bacteriologically and histologically",1.0
+76,A15.7,"primary respiratory tuberculosis, confirmed bacteriologically and histologically",1.0
+77,A15.8,"other respiratory tuberculosis, confirmed bacteriologically and histologically",1.0
+78,A15.9,"respiratory tuberculosis unspecified, confirmed bacteriologically and histologically",1.0
+79,A16,"respiratory tuberculosis, not confirmed bacteriologically or histologically",1.0
+80,A16.0,"tuberculosis of lung, bacteriologically and histologically negative",1.0
+81,A16.1,"tuberculosis of lung, bacteriological and histological examination not done",1.0
+82,A17,tuberculosis of nervous system,1.0
+83,A17.0,tuberculous meningitis,1.0
+84,A17.1,meningeal tuberculoma,1.0
+85,A17.8,other tuberculosis of nervous system,1.0
+86,A17.9,"tuberculosis of nervous system, unspecified",1.0
+87,A18,tuberculosis of other organs,1.0
+88,A18.0,tuberculosis of bones and joints,1.0
+89,A18.1,tuberculosis of genitourinary system,1.0
+90,A18.2,tuberculous peripheral lymphadenopathy,1.0
+91,A18.3,"tuberculosis of intestines, peritoneum and mesenteric glands",1.0
+92,A18.4,tuberculosis of skin and subcutaneous tissue,1.0
+93,A18.5,tuberculosis of eye,1.0
+94,A18.6,tuberculosis of ear,1.0
+95,A18.7,tuberculosis of adrenal glands,1.0
+96,A18.8,tuberculosis of other specified organs,1.0
+97,A19,miliary tuberculosis,1.0
+98,A19.0,acute miliary tuberculosis of a single specified site,1.0
+99,A19.1,acute miliary tuberculosis of multiple sites,1.0
+100,A19.2,"acute miliary tuberculosis, unspecified",1.0
+101,A19.8,other miliary tuberculosis,1.0
+102,A19.9,"miliary tuberculosis, unspecified",1.0
+103,A20,plague,1.0
+104,A20.0,bubonic plague,1.0
+105,A20.1,cellulocutaneous plague,1.0
+106,A20.2,pneumonic plague,1.0
+107,A20.3,plague meningitis,1.0
+108,A20.7,septicaemic plague,1.0
+109,A20.8,other forms of plague,1.0
+110,A20.9,"plague, unspecified",1.0
+111,A21,tularaemia,1.0
+112,A21.0,ulceroglandular tularaemia,1.0
+113,A21.1,oculoglandular tularaemia,1.0
+114,A21.2,pulmonary tularaemia,1.0
+115,A21.3,gastrointestinal tularaemia,1.0
+116,A21.7,generalized tularaemia,1.0
+117,A21.8,other forms of tularaemia,1.0
+118,A21.9,"tularaemia, unspecified",1.0
+119,A22,anthrax,1.0
+120,A22.0,cutaneous anthrax,1.0
+121,A22.1,pulmonary anthrax,1.0
+122,A22.2,gastrointestinal anthrax,1.0
+123,A22.7,anthrax sepsis,1.0
+124,A22.8,other forms of anthrax,1.0
+125,A22.9,"anthrax, unspecified",1.0
+126,A23,brucellosis,1.0
+127,A23.0,brucellosis due to brucella melitensis,1.0
+128,A23.1,brucellosis due to brucella abortus,1.0
+129,A23.2,brucellosis due to brucella suis,1.0
+130,A23.3,brucellosis due to brucella canis,1.0
+131,A23.8,other brucellosis,1.0
+132,A23.9,"brucellosis, unspecified",1.0
+133,A24,glanders and melioidosis,1.0
+134,A24.0,glanders,1.0
+135,A24.1,acute and fulminating melioidosis,1.0
+136,A24.2,subacute and chronic melioidosis,1.0
+137,A24.3,other melioidosis,1.0
+138,A24.4,"melioidosis, unspecified",1.0
+139,A25,rat-bite fevers,1.0
+140,A25.0,spirillosis,1.0
+141,A25.1,streptobacillosis,1.0
+142,A25.9,"rat-bite fever, unspecified",1.0
+143,A26,erysipeloid,1.0
+144,A26.0,cutaneous erysipeloid,1.0
+145,A26.7,erysipelothrix sepsis,1.0
+146,A26.8,other forms of erysipeloid,1.0
+147,A26.9,"erysipeloid, unspecified",1.0
+148,A27,leptospirosis,1.0
+149,A27.0,leptospirosis icterohaemorrhagica,1.0
+150,A27.8,other forms of leptospirosis,1.0
+151,A27.9,"leptospirosis, unspecified",1.0
+152,A28,"other zoonotic bacterial diseases, not elsewhere classified",1.0
+153,A28.0,pasteurellosis,1.0
+154,A28.1,cat-scratch disease,1.0
+155,A28.2,extraintestinal yersiniosis,1.0
+156,A28.8,"other specified zoonotic bacterial diseases, not elsewhere classified",1.0
+157,A28.9,"zoonotic bacterial disease, unspecified",1.0
+158,A30,leprosy [hansen disease],1.0
+159,A30.0,indeterminate leprosy,1.0
+160,A30.1,tuberculoid leprosy,1.0
+161,A30.2,borderline tuberculoid leprosy,1.0
+162,A30.3,borderline leprosy,1.0
+163,A30.4,borderline lepromatous leprosy,1.0
+164,A30.5,lepromatous leprosy,1.0
+165,A30.8,other forms of leprosy,1.0
+166,A30.9,"leprosy, unspecified",1.0
+167,A31,infection due to other mycobacteria,1.0
+168,A31.0,pulmonary mycobacterial infection,1.0
+169,A31.1,cutaneous mycobacterial infection,1.0
+170,A31.8,other mycobacterial infections,1.0
+171,A31.9,"mycobacterial infection, unspecified",1.0
+172,A32,listeriosis,1.0
+173,A32.0,cutaneous listeriosis,1.0
+174,A32.1,listerial meningitis and meningoencephalitis,1.0
+175,A32.7,listerial sepsis,1.0
+176,A32.8,other forms of listeriosis,1.0
+177,A32.9,"listeriosis, unspecified",1.0
+178,A33,tetanus neonatorum,1.0
+179,A34,obstetrical tetanus,1.0
+180,A35,other tetanus,1.0
+181,A36,diphtheria,1.0
+182,A36.0,pharyngeal diphtheria,1.0
+183,A36.1,nasopharyngeal diphtheria,1.0
+184,A36.2,laryngeal diphtheria,1.0
+185,A36.3,cutaneous diphtheria,1.0
+186,A36.8,other diphtheria,1.0
+187,A36.9,"diphtheria, unspecified",1.0
+188,A37,whooping cough,1.0
+189,A37.0,whooping cough due to bordetella pertussis,1.0
+190,A37.1,whooping cough due to bordetella parapertussis,1.0
+191,A37.8,whooping cough due to other bordetella species,1.0
+192,A37.9,"whooping cough, unspecified",1.0
+193,A38,scarlet fever,1.0
+194,A39,meningococcal infection,1.0
+195,A39.0,meningococcal meningitis,1.0
+196,A39.1,waterhouse-friderichsen syndrome,1.0
+197,A39.2,acute meningococcaemia,1.0
+198,A39.4,"meningococcaemia, unspecified",1.0
+199,A39.5,meningococcal heart disease,1.0
+200,A39.8,other meningococcal infections,1.0
+201,A39.9,"meningococcal infection, unspecified",1.0
+202,A40,streptococcal sepsis,1.0
+203,A40.0,"sepsis due to streptococcus, group a",1.0
+204,A40.1,"sepsis due to streptococcus, group b",1.0
+205,A40.2,"sepsis due to streptococcus, group d",1.0
+206,A40.3,sepsis due to streptococcus pneumoniae,1.0
+207,A40.8,other streptococcal sepsis,1.0
+208,A40.9,"streptococcal sepsis, unspecified",1.0
+209,A41,other sepsis,1.0
+210,A41.0,sepsis due to staphylococcus aureus,1.0
+211,A41.1,sepsis due to other specified staphylococcus,1.0
+212,A41.2,sepsis due to unspecified staphylococcus,1.0
+213,A41.3,sepsis due to haemophilus influenzae,1.0
+214,A41.4,sepsis due to anaerobes,1.0
+215,A41.5,sepsis due to other gram-negative organisms,1.0
+216,A41.8,other specified sepsis,1.0
+217,A41.9,"sepsis, unspecified",1.0
+218,A42,actinomycosis,1.0
+219,A42.0,pulmonary actinomycosis,1.0
+220,A42.1,abdominal actinomycosis,1.0
+221,A42.2,cervicofacial actinomycosis,1.0
+222,A42.7,actinomycotic sepsis,1.0
+223,A42.8,other forms of actinomycosis,1.0
+224,A42.9,"actinomycosis, unspecified",1.0
+225,A43,nocardiosis,1.0
+226,A43.0,pulmonary nocardiosis,1.0
+227,A43.1,cutaneous nocardiosis,1.0
+228,A43.8,other forms of nocardiosis,1.0
+229,A43.9,"nocardiosis, unspecified",1.0
+230,A44,bartonellosis,1.0
+231,A44.0,systemic bartonellosis,1.0
+232,A44.1,cutaneous and mucocutaneous bartonellosis,1.0
+233,A44.8,other forms of bartonellosis,1.0
+234,A44.9,"bartonellosis, unspecified",1.0
+235,A46,erysipelas,1.0
+236,A48,"other bacterial diseases, not elsewhere classified",1.0
+237,A48.0,gas gangrene,1.0
+238,A48.1,legionnaires disease,1.0
+239,A48.2,nonpneumonic legionnaires disease [pontiac fever],1.0
+240,A48.3,toxic shock syndrome,1.0
+241,A48.4,brazilian purpuric fever,1.0
+242,A48.8,other specified bacterial diseases,1.0
+243,A49,bacterial infection of unspecified site,1.0
+244,A49.0,"staphylococcal infection, unspecified site",1.0
+245,A49.1,"streptococcal and enterococcal infection, unspecified site",1.0
+246,A49.2,"haemophilus influenzae infection, unspecified site",1.0
+247,A49.3,"mycoplasma infection, unspecified site",1.0
+248,A49.8,other bacterial infections of unspecified site,1.0
+249,A49.9,"bacterial infection, unspecified",1.0
+250,A51,early syphilis,1.0
+251,A51.0,primary genital syphilis,1.0
+252,A51.1,primary anal syphilis,1.0
+253,A51.2,primary syphilis of other sites,1.0
+254,A51.3,secondary syphilis of skin and mucous membranes,1.0
+255,A51.4,other secondary syphilis,1.0
+256,A51.5,"early syphilis, latent",1.0
+257,A51.9,"early syphilis, unspecified",1.0
+258,A52,late syphilis,1.0
+259,A52.0,cardiovascular syphilis,1.0
+260,A52.1,symptomatic neurosyphilis,1.0
+261,A52.3,"neurosyphilis, unspecified",1.0
+262,A52.7,other symptomatic late syphilis,1.0
+263,A52.8,"late syphilis, latent",1.0
+264,A52.9,"late syphilis, unspecified",1.0
+265,A53,other and unspecified syphilis,1.0
+266,A53.0,"latent syphilis, unspecified as early or late",1.0
+267,A53.9,"syphilis, unspecified",1.0
+268,A54,gonococcal infection,1.0
+269,A54.1,gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess,1.0
+270,A54.2,gonococcal pelviperitonitis and other gonococcal genitourinary infections,1.0
+271,A54.3,gonococcal infection of eye,1.0
+272,A54.4,gonococcal infection of musculoskeletal system,1.0
+273,A54.5,gonococcal pharyngitis,1.0
+274,A54.6,gonococcal infection of anus and rectum,1.0
+275,A54.8,other gonococcal infections,1.0
+276,A54.9,"gonococcal infection, unspecified",1.0
+277,A55,chlamydial lymphogranuloma (venereum),1.0
+278,A56,other sexually transmitted chlamydial diseases,1.0
+279,A56.0,chlamydial infection of lower genitourinary tract,1.0
+280,A56.1,chlamydial infection of pelviperitoneum and other genitourinary organs,1.0
+281,A56.2,"chlamydial infection of genitourinary tract, unspecified",1.0
+282,A56.3,chlamydial infection of anus and rectum,1.0
+283,A56.4,chlamydial infection of pharynx,1.0
+284,A56.8,sexually transmitted chlamydial infection of other sites,1.0
+285,A57,chancroid,1.0
+286,A58,granuloma inguinale,1.0
+287,A59,trichomoniasis,1.0
+288,A59.0,urogenital trichomoniasis,1.0
+289,A59.8,trichomoniasis of other sites,1.0
+290,A59.9,"trichomoniasis, unspecified",1.0
+291,A60,anogenital herpesviral [herpes simplex] infection,1.0
+292,A60.0,herpesviral infection of genitalia and urogenital tract,1.0
+293,A60.1,herpesviral infection of perianal skin and rectum,1.0
+294,A60.9,"anogenital herpesviral infection, unspecified",1.0
+295,A63,"other predominantly sexually transmitted diseases, not elsewhere classified",1.0
+296,A63.0,anogenital (venereal) warts,1.0
+297,A63.8,other specified predominantly sexually transmitted diseases,1.0
+298,A64,unspecified sexually transmitted disease,1.0
+299,A65,nonvenereal syphilis,1.0
+300,A66,yaws,1.0
+301,A66.0,initial lesions of yaws,1.0
+302,A66.1,multiple papillomata and wet crab yaws,1.0
+303,A66.2,other early skin lesions of yaws,1.0
+304,A66.3,hyperkeratosis of yaws,1.0
+305,A66.4,gummata and ulcers of yaws,1.0
+306,A66.5,gangosa,1.0
+307,A66.6,bone and joint lesions of yaws,1.0
+308,A66.7,other manifestations of yaws,1.0
+309,A66.8,latent yaws,1.0
+310,A66.9,"yaws, unspecified",1.0
+311,A67,pinta [carate],1.0
+312,A67.0,primary lesions of pinta,1.0
+313,A67.1,intermediate lesions of pinta,1.0
+314,A67.2,late lesions of pinta,1.0
+315,A67.3,mixed lesions of pinta,1.0
+316,A67.9,"pinta, unspecified",1.0
+317,A68,relapsing fevers,1.0
+318,A68.0,louse-borne relapsing fever,1.0
+319,A68.1,tick-borne relapsing fever,1.0
+320,A68.9,"relapsing fever, unspecified",1.0
+321,A69,other spirochaetal infections,1.0
+322,A69.0,necrotizing ulcerative stomatitis,1.0
+323,A69.1,other vincent infections,1.0
+324,A69.2,lyme disease,1.0
+325,A69.8,other specified spirochaetal infections,1.0
+326,A69.9,"spirochaetal infection, unspecified",1.0
+327,A70,chlamydia psittaci infection,1.0
+328,A71,trachoma,1.0
+329,A71.0,initial stage of trachoma,1.0
+330,A71.1,active stage of trachoma,1.0
+331,A71.9,"trachoma, unspecified",1.0
+332,A74,other diseases caused by chlamydiae,1.0
+333,A74.0,chlamydial conjunctivitis,1.0
+334,A74.8,other chlamydial diseases,1.0
+335,A74.9,"chlamydial infection, unspecified",1.0
+336,A75,typhus fever,1.0
+337,A75.0,epidemic louse-borne typhus fever due to rickettsia prowazekii,1.0
+338,A75.1,recrudescent typhus [brill disease],1.0
+339,A75.2,typhus fever due to rickettsia typhi,1.0
+340,A75.3,typhus fever due to rickettsia tsutsugamushi,1.0
+341,A75.9,"typhus fever, unspecified",1.0
+342,A77,spotted fever [tick-borne rickettsioses],1.0
+343,A77.0,spotted fever due to rickettsia rickettsii,1.0
+344,A77.1,spotted fever due to rickettsia conorii,1.0
+345,A77.2,spotted fever due to rickettsia sibirica,1.0
+346,A77.3,spotted fever due to rickettsia australis,1.0
+347,A77.8,other spotted fevers,1.0
+348,A77.9,"spotted fever, unspecified",1.0
+349,A78,q fever,1.0
+350,A79,other rickettsioses,1.0
+351,A79.0,trench fever,1.0
+352,A79.1,rickettsialpox due to rickettsia akari,1.0
+353,A79.8,other specified rickettsioses,1.0
+354,A79.9,"rickettsiosis, unspecified",1.0
+355,A80,acute poliomyelitis,1.0
+356,A80.1,"acute paralytic poliomyelitis, wild virus, imported",1.0
+357,A80.2,"acute paralytic poliomyelitis, wild virus, indigenous",1.0
+358,A80.3,"acute paralytic poliomyelitis, other and unspecified",1.0
+359,A80.4,acute nonparalytic poliomyelitis,1.0
+360,A80.9,"acute poliomyelitis, unspecified",1.0
+361,A81,atypical virus infections of central nervous system,1.0
+362,A81.0,creutzfeldt-jakob disease,1.0
+363,A81.1,subacute sclerosing panencephalitis,1.0
+364,A81.2,progressive multifocal leukoencephalopathy,1.0
+365,A81.8,other atypical virus infections of central nervous system,1.0
+366,A81.9,"atypical virus infection of central nervous system, unspecified",1.0
+367,A82,rabies,1.0
+368,A82.0,sylvatic rabies,1.0
+369,A82.1,urban rabies,1.0
+370,A82.9,"rabies, unspecified",1.0
+371,A83,mosquito-borne viral encephalitis,1.0
+372,A83.0,japanese encephalitis,1.0
+373,A83.1,western equine encephalitis,1.0
+374,A83.2,eastern equine encephalitis,1.0
+375,A83.3,st louis encephalitis,1.0
+376,A83.4,australian encephalitis,1.0
+377,A83.5,california encephalitis,1.0
+378,A83.6,rocio virus disease,1.0
+379,A83.8,other mosquito-borne viral encephalitis,1.0
+380,A83.9,"mosquito-borne viral encephalitis, unspecified",1.0
+381,A84,tick-borne viral encephalitis,1.0
+382,A84.0,far eastern tick-borne encephalitis [russian spring-summer encephalitis],1.0
+383,A84.1,central european tick-borne encephalitis,1.0
+384,A84.8,other tick-borne viral encephalitis,1.0
+385,A84.9,"tick-borne viral encephalitis, unspecified",1.0
+386,A85,"other viral encephalitis, not elsewhere classified",1.0
+387,A85.0,enteroviral encephalitis,1.0
+388,A85.1,adenoviral encephalitis,1.0
+389,A85.2,"arthropod-borne viral encephalitis, unspecified",1.0
+390,A85.8,other specified viral encephalitis,1.0
+391,A86,unspecified viral encephalitis,1.0
+392,A87,viral meningitis,1.0
+393,A87.0,enteroviral meningitis,1.0
+394,A87.1,adenoviral meningitis,1.0
+395,A87.2,lymphocytic choriomeningitis,1.0
+396,A87.8,other viral meningitis,1.0
+397,A87.9,"viral meningitis, unspecified",1.0
+398,A88,"other viral infections of central nervous system, not elsewhere classified",1.0
+399,A88.0,enteroviral exanthematous fever [boston exanthem],1.0
+400,A88.1,epidemic vertigo,1.0
+401,A88.8,other specified viral infections of central nervous system,1.0
+402,A89,unspecified viral infection of central nervous system,1.0
+403,A92,other mosquito-borne viral fevers,1.0
+404,A92.0,chikungunya virus disease,1.0
+405,A92.1,o'nyong-nyong fever,1.0
+406,A92.2,venezuelan equine fever,1.0
+407,A92.3,west nile virus infection,1.0
+408,A92.4,rift valley fever,1.0
+409,A92.8,other specified mosquito-borne viral fevers,1.0
+410,A92.9,"mosquito-borne viral fever, unspecified",1.0
+411,A93,"other arthropod-borne viral fevers, not elsewhere classified",1.0
+412,A93.0,oropouche virus disease,1.0
+413,A93.1,sandfly fever,1.0
+414,A93.2,colorado tick fever,1.0
+415,A93.8,other specified arthropod-borne viral fevers,1.0
+416,A94,unspecified arthropod-borne viral fever,1.0
+417,A95,yellow fever,1.0
+418,A95.0,sylvatic yellow fever,1.0
+419,A95.1,urban yellow fever,1.0
+420,A95.9,"yellow fever, unspecified",1.0
+421,A96,arenaviral haemorrhagic fever,1.0
+422,A96.0,junin haemorrhagic fever,1.0
+423,A96.1,machupo haemorrhagic fever,1.0
+424,A96.2,lassa fever,1.0
+425,A96.8,other arenaviral haemorrhagic fevers,1.0
+426,A96.9,"arenaviral haemorrhagic fever, unspecified",1.0
+427,A97,dengue,1.0
+428,A97.1,dengue with warning signs,1.0
+429,A97.2,severe dengue,1.0
+430,A97.9,"dengue, unspecified",1.0
+431,A98,"other viral haemorrhagic fevers, not elsewhere classified",1.0
+432,A98.0,crimean-congo haemorrhagic fever,1.0
+433,A98.1,omsk haemorrhagic fever,1.0
+434,A98.2,kyasanur forest disease,1.0
+435,A98.3,marburg virus disease,1.0
+436,A98.4,ebola virus disease,1.0
+437,A98.5,haemorrhagic fever with renal syndrome,1.0
+438,A98.8,other specified viral haemorrhagic fevers,1.0
+439,A99,unspecified viral haemorrhagic fever,1.0
+440,B00,herpesviral [herpes simplex] infections,1.0
+441,B00.0,eczema herpeticum,1.0
+442,B00.1,herpesviral vesicular dermatitis,1.0
+443,B00.2,herpesviral gingivostomatitis and pharyngotonsillitis,1.0
+444,B00.3,herpesviral meningitis,1.0
+445,B00.4,herpesviral encephalitis,1.0
+446,B00.5,herpesviral ocular disease,1.0
+447,B00.7,disseminated herpesviral disease,1.0
+448,B00.8,other forms of herpesviral infection,1.0
+449,B00.9,"herpesviral infection, unspecified",1.0
+450,B01,varicella [chickenpox],1.0
+451,B01.0,varicella meningitis,1.0
+452,B01.1,varicella encephalitis,1.0
+453,B01.2,varicella pneumonia,1.0
+454,B01.8,varicella with other complications,1.0
+455,B02,zoster [herpes zoster],1.0
+456,B02.0,zoster encephalitis,1.0
+457,B02.1,zoster meningitis,1.0
+458,B02.2,zoster with other nervous system involvement,1.0
+459,B02.3,zoster ocular disease,1.0
+460,B02.7,disseminated zoster,1.0
+461,B02.8,zoster with other complications,1.0
+462,B03,smallpox,1.0
+463,B04,monkeypox,1.0
+464,B05,measles,1.0
+465,B05.0,measles complicated by encephalitis,1.0
+466,B05.1,measles complicated by meningitis,1.0
+467,B05.2,measles complicated by pneumonia,1.0
+468,B05.3,measles complicated by otitis media,1.0
+469,B05.4,measles with intestinal complications,1.0
+470,B05.8,measles with other complications,1.0
+471,B06,rubella [german measles],1.0
+472,B06.0,rubella with neurological complications,1.0
+473,B06.8,rubella with other complications,1.0
+474,B07,viral warts,1.0
+475,B08,"other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",1.0
+476,B08.0,other orthopoxvirus infections,1.0
+477,B08.1,molluscum contagiosum,1.0
+478,B08.2,exanthema subitum [sixth disease],1.0
+479,B08.3,erythema infectiosum [fifth disease],1.0
+480,B08.4,enteroviral vesicular stomatitis with exanthem,1.0
+481,B08.5,enteroviral vesicular pharyngitis,1.0
+482,B08.8,other specified viral infections characterized by skin and mucous membrane lesions,1.0
+483,B09,unspecified viral infection characterized by skin and mucous membrane lesions,1.0
+484,B15,acute hepatitis a,1.0
+485,B15.0,hepatitis a with hepatic coma,1.0
+486,B16,acute hepatitis b,1.0
+487,B16.0,acute hepatitis b with delta-agent (coinfection) with hepatic coma,1.0
+488,B17,other acute viral hepatitis,1.0
+489,B17.1,acute hepatitis c,1.0
+490,B17.2,acute hepatitis e,1.0
+491,B17.8,other specified acute viral hepatitis,1.0
+492,B17.9,"acute viral hepatitis, unspecified",1.0
+493,B19,unspecified viral hepatitis,1.0
+494,B19.0,unspecified viral hepatitis with hepatic coma,1.0
+495,B20.0,hiv disease resulting in mycobacterial infection,1.0
+496,B20.1,hiv disease resulting in other bacterial infections,1.0
+497,B20.2,hiv disease resulting in cytomegaloviral disease,1.0
+498,B20.3,hiv disease resulting in other viral infections,1.0
+499,B20.4,hiv disease resulting in candidiasis,1.0
+500,B20.5,hiv disease resulting in other mycoses,1.0
+501,B20.6,hiv disease resulting in pneumocystis jirovecii pneumonia,1.0
+502,B20.7,hiv disease resulting in multiple infections,1.0
+503,B20.8,hiv disease resulting in other infectious and parasitic diseases,1.0
+504,B20.9,hiv disease resulting in unspecified infectious or parasitic disease,1.0
+505,B23.0,acute hiv infection syndrome,1.0
+506,B25,cytomegaloviral disease,1.0
+507,B25.0,cytomegaloviral pneumonitis,1.0
+508,B25.1,cytomegaloviral hepatitis,1.0
+509,B25.2,cytomegaloviral pancreatitis,1.0
+510,B25.8,other cytomegaloviral diseases,1.0
+511,B25.9,"cytomegaloviral disease, unspecified",1.0
+512,B26,mumps,1.0
+513,B26.0,mumps orchitis,1.0
+514,B26.1,mumps meningitis,1.0
+515,B26.2,mumps encephalitis,1.0
+516,B26.3,mumps pancreatitis,1.0
+517,B26.8,mumps with other complications,1.0
+518,B27,infectious mononucleosis,1.0
+519,B27.0,gammaherpesviral mononucleosis,1.0
+520,B27.1,cytomegaloviral mononucleosis,1.0
+521,B27.8,other infectious mononucleosis,1.0
+522,B27.9,"infectious mononucleosis, unspecified",1.0
+523,B30,viral conjunctivitis,1.0
+524,B30.0,keratoconjunctivitis due to adenovirus,1.0
+525,B30.1,conjunctivitis due to adenovirus,1.0
+526,B30.2,viral pharyngoconjunctivitis,1.0
+527,B30.3,acute epidemic haemorrhagic conjunctivitis (enteroviral),1.0
+528,B30.8,other viral conjunctivitis,1.0
+529,B30.9,"viral conjunctivitis, unspecified",1.0
+530,B33,"other viral diseases, not elsewhere classified",1.0
+531,B33.0,epidemic myalgia,1.0
+532,B33.1,ross river disease,1.0
+533,B33.2,viral carditis,1.0
+534,B33.3,"retrovirus infections, not elsewhere classified",1.0
+535,B33.4,hantavirus (cardio-)pulmonary syndrome [hps] [hcps],1.0
+536,B33.8,other specified viral diseases,1.0
+537,B34,viral infection of unspecified site,1.0
+538,B34.0,"adenovirus infection, unspecified site",1.0
+539,B34.1,"enterovirus infection, unspecified site",1.0
+540,B34.2,"coronavirus infection, unspecified site",1.0
+541,B34.3,"parvovirus infection, unspecified site",1.0
+542,B34.4,"papovavirus infection, unspecified site",1.0
+543,B34.8,other viral infections of unspecified site,1.0
+544,B34.9,"viral infection, unspecified",1.0
+545,B35,dermatophytosis,1.0
+546,B35.0,tinea barbae and tinea capitis,1.0
+547,B35.1,tinea unguium,1.0
+548,B35.2,tinea manuum,1.0
+549,B35.3,tinea pedis,1.0
+550,B35.4,tinea corporis,1.0
+551,B35.5,tinea imbricata,1.0
+552,B35.6,tinea inguinalis [tinea cruris],1.0
+553,B35.8,other dermatophytoses,1.0
+554,B35.9,"dermatophytosis, unspecified",1.0
+555,B36,other superficial mycoses,1.0
+556,B36.0,pityriasis versicolor,1.0
+557,B36.1,tinea nigra,1.0
+558,B36.2,white piedra,1.0
+559,B36.3,black piedra,1.0
+560,B36.8,other specified superficial mycoses,1.0
+561,B36.9,"superficial mycosis, unspecified",1.0
+562,B37,candidiasis,1.0
+563,B37.0,candidal stomatitis,1.0
+564,B37.1,pulmonary candidiasis,1.0
+565,B37.2,candidiasis of skin and nail,1.0
+566,B37.3,candidiasis of vulva and vagina,1.0
+567,B37.4,candidiasis of other urogenital sites,1.0
+568,B37.5,candidal meningitis,1.0
+569,B37.6,candidal endocarditis,1.0
+570,B37.7,candidal sepsis,1.0
+571,B37.8,candidiasis of other sites,1.0
+572,B37.9,"candidiasis, unspecified",1.0
+573,B38,coccidioidomycosis,1.0
+574,B38.0,acute pulmonary coccidioidomycosis,1.0
+575,B38.2,"pulmonary coccidioidomycosis, unspecified",1.0
+576,B38.3,cutaneous coccidioidomycosis,1.0
+577,B38.4,coccidioidomycosis meningitis,1.0
+578,B38.7,disseminated coccidioidomycosis,1.0
+579,B38.8,other forms of coccidioidomycosis,1.0
+580,B38.9,"coccidioidomycosis, unspecified",1.0
+581,B39,histoplasmosis,1.0
+582,B39.0,acute pulmonary histoplasmosis capsulati,1.0
+583,B39.2,"pulmonary histoplasmosis capsulati, unspecified",1.0
+584,B39.3,disseminated histoplasmosis capsulati,1.0
+585,B39.4,"histoplasmosis capsulati, unspecified",1.0
+586,B39.5,histoplasmosis duboisii,1.0
+587,B39.9,"histoplasmosis, unspecified",1.0
+588,B40,blastomycosis,1.0
+589,B40.0,acute pulmonary blastomycosis,1.0
+590,B40.2,"pulmonary blastomycosis, unspecified",1.0
+591,B40.3,cutaneous blastomycosis,1.0
+592,B40.7,disseminated blastomycosis,1.0
+593,B40.8,other forms of blastomycosis,1.0
+594,B40.9,"blastomycosis, unspecified",1.0
+595,B41,paracoccidioidomycosis,1.0
+596,B41.0,pulmonary paracoccidioidomycosis,1.0
+597,B41.7,disseminated paracoccidioidomycosis,1.0
+598,B41.8,other forms of paracoccidioidomycosis,1.0
+599,B41.9,"paracoccidioidomycosis, unspecified",1.0
+600,B42,sporotrichosis,1.0
+601,B42.0,pulmonary sporotrichosis,1.0
+602,B42.1,lymphocutaneous sporotrichosis,1.0
+603,B42.7,disseminated sporotrichosis,1.0
+604,B42.8,other forms of sporotrichosis,1.0
+605,B42.9,"sporotrichosis, unspecified",1.0
+606,B43,chromomycosis and phaeomycotic abscess,1.0
+607,B43.0,cutaneous chromomycosis,1.0
+608,B43.1,phaeomycotic brain abscess,1.0
+609,B43.2,subcutaneous phaeomycotic abscess and cyst,1.0
+610,B43.8,other forms of chromomycosis,1.0
+611,B43.9,"chromomycosis, unspecified",1.0
+612,B44,aspergillosis,1.0
+613,B44.0,invasive pulmonary aspergillosis,1.0
+614,B44.1,other pulmonary aspergillosis,1.0
+615,B44.2,tonsillar aspergillosis,1.0
+616,B44.7,disseminated aspergillosis,1.0
+617,B44.8,other forms of aspergillosis,1.0
+618,B44.9,"aspergillosis, unspecified",1.0
+619,B45,cryptococcosis,1.0
+620,B45.0,pulmonary cryptococcosis,1.0
+621,B45.1,cerebral cryptococcosis,1.0
+622,B45.2,cutaneous cryptococcosis,1.0
+623,B45.3,osseous cryptococcosis,1.0
+624,B45.7,disseminated cryptococcosis,1.0
+625,B45.8,other forms of cryptococcosis,1.0
+626,B45.9,"cryptococcosis, unspecified",1.0
+627,B46,zygomycosis,1.0
+628,B46.0,pulmonary mucormycosis,1.0
+629,B46.1,rhinocerebral mucormycosis,1.0
+630,B46.2,gastrointestinal mucormycosis,1.0
+631,B46.3,cutaneous mucormycosis,1.0
+632,B46.4,disseminated mucormycosis,1.0
+633,B46.5,"mucormycosis, unspecified",1.0
+634,B46.8,other zygomycoses,1.0
+635,B46.9,"zygomycosis, unspecified",1.0
+636,B47,mycetoma,1.0
+637,B47.0,eumycetoma,1.0
+638,B47.1,actinomycetoma,1.0
+639,B47.9,"mycetoma, unspecified",1.0
+640,B48,"other mycoses, not elsewhere classified",1.0
+641,B48.0,lobomycosis,1.0
+642,B48.1,rhinosporidiosis,1.0
+643,B48.2,allescheriasis,1.0
+644,B48.3,geotrichosis,1.0
+645,B48.4,penicillosis,1.0
+646,B48.7,opportunistic mycoses,1.0
+647,B48.8,other specified mycoses,1.0
+648,B49,unspecified mycosis,1.0
+649,B50,plasmodium falciparum malaria,1.0
+650,B50.0,plasmodium falciparum malaria with cerebral complications,1.0
+651,B50.8,other severe and complicated plasmodium falciparum malaria,1.0
+652,B50.9,"plasmodium falciparum malaria, unspecified",1.0
+653,B51,plasmodium vivax malaria,1.0
+654,B51.0,plasmodium vivax malaria with rupture of spleen,1.0
+655,B51.8,plasmodium vivax malaria with other complications,1.0
+656,B52,plasmodium malariae malaria,1.0
+657,B52.0,plasmodium malariae malaria with nephropathy,1.0
+658,B52.8,plasmodium malariae malaria with other complications,1.0
+659,B53,other parasitologically confirmed malaria,1.0
+660,B53.0,plasmodium ovale malaria,1.0
+661,B53.1,malaria due to simian plasmodia,1.0
+662,B53.8,"other parasitologically confirmed malaria, not elsewhere classified",1.0
+663,B54,unspecified malaria,1.0
+664,B55,leishmaniasis,1.0
+665,B55.0,visceral leishmaniasis,1.0
+666,B55.1,cutaneous leishmaniasis,1.0
+667,B55.2,mucocutaneous leishmaniasis,1.0
+668,B55.9,"leishmaniasis, unspecified",1.0
+669,B56,african trypanosomiasis,1.0
+670,B56.0,gambiense trypanosomiasis,1.0
+671,B56.1,rhodesiense trypanosomiasis,1.0
+672,B56.9,"african trypanosomiasis, unspecified",1.0
+673,B57,chagas disease,1.0
+674,B57.0,acute chagas disease with heart involvement,1.0
+675,B57.2,chagas disease (chronic) with heart involvement,1.0
+676,B57.3,chagas disease (chronic) with digestive system involvement,1.0
+677,B57.4,chagas disease (chronic) with nervous system involvement,1.0
+678,B57.5,chagas disease (chronic) with other organ involvement,1.0
+679,B58,toxoplasmosis,1.0
+680,B58.0,toxoplasma oculopathy,1.0
+681,B58.1,toxoplasma hepatitis,1.0
+682,B58.2,toxoplasma meningoencephalitis,1.0
+683,B58.3,pulmonary toxoplasmosis,1.0
+684,B58.8,toxoplasmosis with other organ involvement,1.0
+685,B58.9,"toxoplasmosis, unspecified",1.0
+686,B59,pneumocystosis,1.0
+687,B60,"other protozoal diseases, not elsewhere classified",1.0
+688,B60.0,babesiosis,1.0
+689,B60.1,acanthamoebiasis,1.0
+690,B60.2,naegleriasis,1.0
+691,B60.8,other specified protozoal diseases,1.0
+692,B64,unspecified protozoal disease,1.0
+693,B65,schistosomiasis [bilharziasis],1.0
+694,B65.0,schistosomiasis due to schistosoma haematobium [urinary schistosomiasis],1.0
+695,B65.1,schistosomiasis due to schistosoma mansoni [intestinal schistosomiasis],1.0
+696,B65.2,schistosomiasis due to schistosoma japonicum,1.0
+697,B65.3,cercarial dermatitis,1.0
+698,B65.8,other schistosomiases,1.0
+699,B65.9,"schistosomiasis, unspecified",1.0
+700,B66,other fluke infections,1.0
+701,B66.0,opisthorchiasis,1.0
+702,B66.1,clonorchiasis,1.0
+703,B66.2,dicrocoeliasis,1.0
+704,B66.3,fascioliasis,1.0
+705,B66.4,paragonimiasis,1.0
+706,B66.5,fasciolopsiasis,1.0
+707,B66.8,other specified fluke infections,1.0
+708,B66.9,"fluke infection, unspecified",1.0
+709,B67,echinococcosis,1.0
+710,B67.0,echinococcus granulosus infection of liver,1.0
+711,B67.1,echinococcus granulosus infection of lung,1.0
+712,B67.2,echinococcus granulosus infection of bone,1.0
+713,B67.3,"echinococcus granulosus infection, other and multiple sites",1.0
+714,B67.4,"echinococcus granulosus infection, unspecified",1.0
+715,B67.5,echinococcus multilocularis infection of liver,1.0
+716,B67.6,"echinococcus multilocularis infection, other and multiple sites",1.0
+717,B67.7,"echinococcus multilocularis infection, unspecified",1.0
+718,B67.8,"echinococcosis, unspecified, of liver",1.0
+719,B67.9,"echinococcosis, other and unspecified",1.0
+720,B68,taeniasis,1.0
+721,B68.0,taenia solium taeniasis,1.0
+722,B68.1,taenia saginata taeniasis,1.0
+723,B68.9,"taeniasis, unspecified",1.0
+724,B69,cysticercosis,1.0
+725,B69.0,cysticercosis of central nervous system,1.0
+726,B69.1,cysticercosis of eye,1.0
+727,B69.8,cysticercosis of other sites,1.0
+728,B69.9,"cysticercosis, unspecified",1.0
+729,B70,diphyllobothriasis and sparganosis,1.0
+730,B70.0,diphyllobothriasis,1.0
+731,B70.1,sparganosis,1.0
+732,B71,other cestode infections,1.0
+733,B71.0,hymenolepiasis,1.0
+734,B71.1,dipylidiasis,1.0
+735,B71.8,other specified cestode infections,1.0
+736,B71.9,"cestode infection, unspecified",1.0
+737,B72,dracunculiasis,1.0
+738,B73,onchocerciasis,1.0
+739,B74,filariasis,1.0
+740,B74.0,filariasis due to wuchereria bancrofti,1.0
+741,B74.1,filariasis due to brugia malayi,1.0
+742,B74.2,filariasis due to brugia timori,1.0
+743,B74.3,loiasis,1.0
+744,B74.4,mansonelliasis,1.0
+745,B74.8,other filariases,1.0
+746,B74.9,"filariasis, unspecified",1.0
+747,B75,trichinellosis,1.0
+748,B76,hookworm diseases,1.0
+749,B76.0,ancylostomiasis,1.0
+750,B76.1,necatoriasis,1.0
+751,B76.8,other hookworm diseases,1.0
+752,B76.9,"hookworm disease, unspecified",1.0
+753,B77,ascariasis,1.0
+754,B77.0,ascariasis with intestinal complications,1.0
+755,B77.8,ascariasis with other complications,1.0
+756,B77.9,"ascariasis, unspecified",1.0
+757,B78,strongyloidiasis,1.0
+758,B78.0,intestinal strongyloidiasis,1.0
+759,B78.1,cutaneous strongyloidiasis,1.0
+760,B78.7,disseminated strongyloidiasis,1.0
+761,B78.9,"strongyloidiasis, unspecified",1.0
+762,B79,trichuriasis,1.0
+763,B80,enterobiasis,1.0
+764,B81,"other intestinal helminthiases, not elsewhere classified",1.0
+765,B81.0,anisakiasis,1.0
+766,B81.1,intestinal capillariasis,1.0
+767,B81.2,trichostrongyliasis,1.0
+768,B81.3,intestinal angiostrongyliasis,1.0
+769,B81.4,mixed intestinal helminthiases,1.0
+770,B81.8,other specified intestinal helminthiases,1.0
+771,B82,unspecified intestinal parasitism,1.0
+772,B82.0,"intestinal helminthiasis, unspecified",1.0
+773,B82.9,"intestinal parasitism, unspecified",1.0
+774,B83,other helminthiases,1.0
+775,B83.0,visceral larva migrans,1.0
+776,B83.1,gnathostomiasis,1.0
+777,B83.2,angiostrongyliasis due to parastrongylus cantonensis,1.0
+778,B83.3,syngamiasis,1.0
+779,B83.4,internal hirudiniasis,1.0
+780,B83.8,other specified helminthiases,1.0
+781,B83.9,"helminthiasis, unspecified",1.0
+782,B85,pediculosis and phthiriasis,1.0
+783,B85.0,pediculosis due to pediculus humanus capitis,1.0
+784,B85.1,pediculosis due to pediculus humanus corporis,1.0
+785,B85.2,"pediculosis, unspecified",1.0
+786,B85.3,phthiriasis,1.0
+787,B85.4,mixed pediculosis and phthiriasis,1.0
+788,B86,scabies,1.0
+789,B87,myiasis,1.0
+790,B87.0,cutaneous myiasis,1.0
+791,B87.1,wound myiasis,1.0
+792,B87.2,ocular myiasis,1.0
+793,B87.3,nasopharyngeal myiasis,1.0
+794,B87.4,aural myiasis,1.0
+795,B87.8,myiasis of other sites,1.0
+796,B87.9,"myiasis, unspecified",1.0
+797,B88,other infestations,1.0
+798,B88.0,other acariasis,1.0
+799,B88.1,tungiasis [sandflea infestation],1.0
+800,B88.2,other arthropod infestations,1.0
+801,B88.3,external hirudiniasis,1.0
+802,B88.8,other specified infestations,1.0
+803,B88.9,"infestation, unspecified",1.0
+804,B89,unspecified parasitic disease,1.0
+805,B90,sequelae of tuberculosis,1.0
+806,B90.0,sequelae of central nervous system tuberculosis,1.0
+807,B90.1,sequelae of genitourinary tuberculosis,1.0
+808,B90.2,sequelae of tuberculosis of bones and joints,1.0
+809,B90.8,sequelae of tuberculosis of other organs,1.0
+810,B90.9,sequelae of respiratory and unspecified tuberculosis,1.0
+811,B91,sequelae of poliomyelitis,1.0
+812,B92,sequelae of leprosy,1.0
+813,B94,sequelae of other and unspecified infectious and parasitic diseases,1.0
+814,B94.0,sequelae of trachoma,1.0
+815,B94.1,sequelae of viral encephalitis,1.0
+816,B94.2,sequelae of viral hepatitis,1.0
+817,B94.8,sequelae of other specified infectious and parasitic diseases,1.0
+818,B94.9,sequelae of unspecified infectious or parasitic disease,1.0
+819,B95,streptococcus and staphylococcus as the cause of diseases classified to other chapters,1.0
+820,B95.0,"streptococcus, group a, as the cause of diseases classified to other chapters",1.0
+821,B95.1,"streptococcus, group b, as the cause of diseases classified to other chapters",1.0
+822,B95.2,streptococcus group d and enterococcus as the cause of diseases classified to other chapters,1.0
+823,B95.3,streptococcus pneumoniae as the cause of diseases classified to other chapters,1.0
+824,B95.4,other streptococcus as the cause of diseases classified to other chapters,1.0
+825,B95.5,unspecified streptococcus as the cause of diseases classified to other chapters,1.0
+826,B95.6,staphylococcus aureus as the cause of diseases classified to other chapters,1.0
+827,B95.7,other staphylococcus as the cause of diseases classified to other chapters,1.0
+828,B95.8,unspecified staphylococcus as the cause of diseases classified to other chapters,1.0
+829,B96,other specified bacterial agents as the cause of diseases classified to other chapters,1.0
+830,B96.0,mycoplasma pneumoniae [m. pneumoniae] as the cause of diseases classified to other chapters,1.0
+831,B96.1,klebsiella pneumoniae [k. pneumoniae] as the cause of diseases classified to other chapters,1.0
+832,B96.2,escherichia coli [e. coli] as the cause of diseases classified to other chapters,1.0
+833,B96.3,haemophilus influenzae [h. influenzae] as the cause of diseases classified to other chapters,1.0
+834,B96.4,proteus (mirabilis)(morganii) as the cause of diseases classified to other chapters,1.0
+835,B96.5,pseudomonas (aeruginosa) as the cause of diseases classified to other chapters,1.0
+836,B96.6,bacillus fragilis [b. fragilis] as the cause of diseases classified to other chapters,1.0
+837,B96.7,clostridium perfringens [c. perfringens] as the cause of diseases classified to other chapters,1.0
+838,B96.8,other specified bacterial agents as the cause of diseases classified to other chapters,1.0
+839,B97,viral agents as the cause of diseases classified to other chapters,1.0
+840,B97.0,adenovirus as the cause of diseases classified to other chapters,1.0
+841,B97.1,enterovirus as the cause of diseases classified to other chapters,1.0
+842,B97.2,coronavirus as the cause of diseases classified to other chapters,1.0
+843,B97.3,retrovirus as the cause of diseases classified to other chapters,1.0
+844,B97.4,respiratory syncytial virus as the cause of diseases classified to other chapters,1.0
+845,B97.5,reovirus as the cause of diseases classified to other chapters,1.0
+846,B97.6,parvovirus as the cause of diseases classified to other chapters,1.0
+847,B97.7,papillomavirus as the cause of diseases classified to other chapters,1.0
+848,B97.8,other viral agents as the cause of diseases classified to other chapters,1.0
+849,B98,other specified infectious agents as the cause of diseases classified to other chapters,1.0
+850,B98.0,helicobacter pylori [h.pylori] as the cause of diseases classified to other chapters,1.0
+851,B98.1,vibrio vulnificus as the cause of diseases classified to other chapters,1.0
+852,B99,other and unspecified infectious diseases,1.0
+853,D73.3,abscess of spleen,1.0
+854,D76.2,"haemophagocytic syndrome, infection-associated",1.0
+855,E32.1,abscess of thymus,1.0
+856,G00,"bacterial meningitis, not elsewhere classified",1.0
+857,G00.0,haemophilus meningitis,1.0
+858,G00.1,pneumococcal meningitis,1.0
+859,G00.2,streptococcal meningitis,1.0
+860,G00.3,staphylococcal meningitis,1.0
+861,G00.8,other bacterial meningitis,1.0
+862,G00.9,"bacterial meningitis, unspecified",1.0
+863,G01,meningitis in bacterial diseases classified elsewhere,1.0
+864,G02,meningitis in other infectious and parasitic diseases classified elsewhere,1.0
+865,G02.0,meningitis in viral diseases classified elsewhere,1.0
+866,G02.1,meningitis in mycoses,1.0
+867,G02.8,meningitis in other specified infectious and parasitic diseases classified elsewhere,1.0
+868,G03,meningitis due to other and unspecified causes,1.0
+869,G03.8,meningitis due to other specified causes,1.0
+870,G03.9,"meningitis, unspecified",1.0
+871,G04.2,"bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",1.0
+872,G05.0,"encephalitis, myelitis and encephalomyelitis in bacterial diseases classified elsewhere",1.0
+873,G05.1,"encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",1.0
+874,G05.2,"encephalitis, myelitis and encephalomyelitis in other infectious and parasitic diseases classified elsewhere",1.0
+875,G06,intracranial and intraspinal abscess and granuloma,1.0
+876,G06.0,intracranial abscess and granuloma,1.0
+877,G06.1,intraspinal abscess and granuloma,1.0
+878,G06.2,"extradural and subdural abscess, unspecified",1.0
+879,G07,intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,1.0
+880,G53.1,multiple cranial nerve palsies in infectious and parasitic diseases classified elsewhere,1.0
+881,G63.0,polyneuropathy in infectious and parasitic diseases classified elsewhere,1.0
+882,G73.4,myopathy in infectious and parasitic diseases classified elsewhere,1.0
+883,G94.0,hydrocephalus in infectious and parasitic diseases classified elsewhere,1.0
+884,H03.1,involvement of eyelid in other infectious diseases classified elsewhere,1.0
+885,H13.0,filarial infection of conjunctiva,1.0
+886,H13.1,conjunctivitis in infectious and parasitic diseases classified elsewhere,1.0
+887,H19.1,herpesviral keratitis and keratoconjunctivitis,1.0
+888,H19.2,keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere,1.0
+889,H22.0,iridocyclitis in infectious and parasitic diseases classified elsewhere,1.0
+890,H32.0,chorioretinal inflammation in infectious and parasitic diseases classified elsewhere,1.0
+891,H60.0,abscess of external ear,1.0
+892,H60.1,cellulitis of external ear,1.0
+893,H60.3,other infective otitis externa,1.0
+894,H62.0,otitis externa in bacterial diseases classified elsewhere,1.0
+895,H62.1,otitis externa in viral diseases classified elsewhere,1.0
+896,H62.3,otitis externa in other infectious and parasitic diseases classified elsewhere,1.0
+897,H67.0,otitis media in bacterial diseases classified elsewhere,1.0
+898,H67.1,otitis media in viral diseases classified elsewhere,1.0
+899,H75.0,mastoiditis in infectious and parasitic diseases classified elsewhere,1.0
+900,H94.0,acoustic neuritis in infectious and parasitic diseases classified elsewhere,1.0
+901,I01,rheumatic fever with heart involvement,1.0
+902,I30.1,infective pericarditis,1.0
+903,I32.0,pericarditis in bacterial diseases classified elsewhere,1.0
+904,I32.1,pericarditis in other infectious and parasitic diseases classified elsewhere,1.0
+905,I33.0,acute and subacute infective endocarditis,1.0
+906,I40.0,infective myocarditis,1.0
+907,I41.0,myocarditis in bacterial diseases classified elsewhere,1.0
+908,I41.1,myocarditis in viral diseases classified elsewhere,1.0
+909,I41.2,myocarditis in other infectious and parasitic diseases classified elsewhere,1.0
+910,I43.0,cardiomyopathy in infectious and parasitic diseases classified elsewhere,1.0
+911,I52.0,other heart disorders in bacterial diseases classified elsewhere,1.0
+912,I52.1,other heart disorders in other infectious and parasitic diseases classified elsewhere,1.0
+913,I68.1,cerebral arteritis in infectious and parasitic diseases classified elsewhere,1.0
+914,I98.1,cardiovascular disorders in other infectious and parasitic diseases classified elsewhere,1.0
+915,J00,acute nasopharyngitis [common cold],1.0
+916,J01,acute sinusitis,1.0
+917,J01.0,acute maxillary sinusitis,1.0
+918,J01.1,acute frontal sinusitis,1.0
+919,J01.2,acute ethmoidal sinusitis,1.0
+920,J01.3,acute sphenoidal sinusitis,1.0
+921,J01.4,acute pansinusitis,1.0
+922,J01.8,other acute sinusitis,1.0
+923,J01.9,"acute sinusitis, unspecified",1.0
+924,J02,acute pharyngitis,1.0
+925,J02.0,streptococcal pharyngitis,1.0
+926,J02.8,acute pharyngitis due to other specified organisms,1.0
+927,J02.9,"acute pharyngitis, unspecified",1.0
+928,J03,acute tonsillitis,1.0
+929,J03.0,streptococcal tonsillitis,1.0
+930,J03.8,acute tonsillitis due to other specified organisms,1.0
+931,J03.9,"acute tonsillitis, unspecified",1.0
+932,J04,acute laryngitis and tracheitis,1.0
+933,J04.0,acute laryngitis,1.0
+934,J04.1,acute tracheitis,1.0
+935,J04.2,acute laryngotracheitis,1.0
+936,J05,acute obstructive laryngitis [croup] and epiglottitis,1.0
+937,J05.0,acute obstructive laryngitis [croup],1.0
+938,J05.1,acute epiglottitis,1.0
+939,J06,acute upper respiratory infections of multiple and unspecified sites,1.0
+940,J06.0,acute laryngopharyngitis,1.0
+941,J06.8,other acute upper respiratory infections of multiple sites,1.0
+942,J06.9,"acute upper respiratory infection, unspecified",1.0
+943,J09,influenza due to identified zoonotic or pandemic influenza virus,1.0
+944,J10,influenza due to identified seasonal influenza virus,1.0
+945,J10.0,"influenza with pneumonia, seasonal influenza virus identified",1.0
+946,J10.1,"influenza with other respiratory manifestations, seasonal influenza virus identified",1.0
+947,J10.8,"influenza with other manifestations, seasonal influenza virus identified",1.0
+948,J11,"influenza, virus not identified",1.0
+949,J11.0,"influenza with pneumonia, virus not identified",1.0
+950,J11.1,"influenza with other respiratory manifestations, virus not identified",1.0
+951,J11.8,"influenza with other manifestations, virus not identified",1.0
+952,J12,"viral pneumonia, not elsewhere classified",1.0
+953,J12.0,adenoviral pneumonia,1.0
+954,J12.1,respiratory syncytial virus pneumonia,1.0
+955,J12.2,parainfluenza virus pneumonia,1.0
+956,J12.3,human metapneumovirus pneumonia,1.0
+957,J12.8,other viral pneumonia,1.0
+958,J12.9,"viral pneumonia, unspecified",1.0
+959,J13,pneumonia due to streptococcus pneumoniae,1.0
+960,J14,pneumonia due to haemophilus influenzae,1.0
+961,J15,"bacterial pneumonia, not elsewhere classified",1.0
+962,J15.0,pneumonia due to klebsiella pneumoniae,1.0
+963,J15.1,pneumonia due to pseudomonas,1.0
+964,J15.2,pneumonia due to staphylococcus,1.0
+965,J15.3,"pneumonia due to streptococcus, group b",1.0
+966,J15.4,pneumonia due to other streptococci,1.0
+967,J15.5,pneumonia due to escherichia coli,1.0
+968,J15.6,pneumonia due to other gram-negative bacteria,1.0
+969,J15.7,pneumonia due to mycoplasma pneumoniae,1.0
+970,J15.8,other bacterial pneumonia,1.0
+971,J15.9,"bacterial pneumonia, unspecified",1.0
+972,J16,"pneumonia due to other infectious organisms, not elsewhere classified",1.0
+973,J16.0,chlamydial pneumonia,1.0
+974,J16.8,pneumonia due to other specified infectious organisms,1.0
+975,J17,pneumonia in diseases classified elsewhere,1.0
+976,J17.0,pneumonia in bacterial diseases classified elsewhere,1.0
+977,J17.1,pneumonia in viral diseases classified elsewhere,1.0
+978,J17.2,pneumonia in mycoses,1.0
+979,J17.3,pneumonia in parasitic diseases,1.0
+980,J17.8,pneumonia in other diseases classified elsewhere,1.0
+981,J18,"pneumonia, organism unspecified",1.0
+982,J18.0,"bronchopneumonia, unspecified",1.0
+983,J18.1,"lobar pneumonia, unspecified",1.0
+984,J18.2,"hypostatic pneumonia, unspecified",1.0
+985,J18.8,"other pneumonia, organism unspecified",1.0
+986,J18.9,"pneumonia, unspecified",1.0
+987,J20,acute bronchitis,1.0
+988,J20.0,acute bronchitis due to mycoplasma pneumoniae,1.0
+989,J20.1,acute bronchitis due to haemophilus influenzae,1.0
+990,J20.2,acute bronchitis due to streptococcus,1.0
+991,J20.3,acute bronchitis due to coxsackievirus,1.0
+992,J20.4,acute bronchitis due to parainfluenza virus,1.0
+993,J20.5,acute bronchitis due to respiratory syncytial virus,1.0
+994,J20.6,acute bronchitis due to rhinovirus,1.0
+995,J20.7,acute bronchitis due to echovirus,1.0
+996,J20.8,acute bronchitis due to other specified organisms,1.0
+997,J20.9,"acute bronchitis, unspecified",1.0
+998,J21,acute bronchiolitis,1.0
+999,J21.0,acute bronchiolitis due to respiratory syncytial virus,1.0
+1000,J21.1,acute bronchiolitis due to human metapneumovirus,1.0
+1001,J21.8,acute bronchiolitis due to other specified organisms,1.0
+1002,J21.9,"acute bronchiolitis, unspecified",1.0
+1003,J22,unspecified acute lower respiratory infection,1.0
+1004,J34.0,"abscess, furuncle and carbuncle of nose",1.0
+1005,J36,peritonsillar abscess,1.0
+1006,J39.0,retropharyngeal and parapharyngeal abscess,1.0
+1007,J39.1,other abscess of pharynx,1.0
+1008,J44.0,chronic obstructive pulmonary disease with acute lower respiratory infection,1.0
+1009,J85,abscess of lung and mediastinum,1.0
+1010,J85.1,abscess of lung with pneumonia,1.0
+1011,J85.3,abscess of mediastinum,1.0
+1012,J86,pyothorax,1.0
+1013,J86.0,pyothorax with fistula,1.0
+1014,K04.6,periapical abscess with sinus,1.0
+1015,K11.3,abscess of salivary gland,1.0
+1016,K12.2,cellulitis and abscess of mouth,1.0
+1017,K57.0,diverticular disease of small intestine with perforation and abscess,1.0
+1018,K57.2,diverticular disease of large intestine with perforation and abscess,1.0
+1019,K57.4,diverticular disease of both small and large intestine with perforation and abscess,1.0
+1020,K57.8,"diverticular disease of intestine, part unspecified, with perforation and abscess",1.0
+1021,K61,abscess of anal and rectal regions,1.0
+1022,K61.0,anal abscess,1.0
+1023,K61.1,rectal abscess,1.0
+1024,K61.2,anorectal abscess,1.0
+1025,K61.3,ischiorectal abscess,1.0
+1026,K61.4,intrasphincteric abscess,1.0
+1027,K63.0,abscess of intestine,1.0
+1028,K67,disorders of peritoneum in infectious diseases classified elsewhere,1.0
+1029,K67.8,other disorders of peritoneum in infectious diseases classified elsewhere,1.0
+1030,K75.0,abscess of liver,1.0
+1031,K77.0,liver disorders in infectious and parasitic diseases classified elsewhere,1.0
+1032,L00,staphylococcal scalded skin syndrome,1.0
+1033,L01,impetigo,1.0
+1034,L01.0,impetigo [any organism] [any site],1.0
+1035,L01.1,impetiginization of other dermatoses,1.0
+1036,L02,"cutaneous abscess, furuncle and carbuncle",1.0
+1037,L02.0,"cutaneous abscess, furuncle and carbuncle of face",1.0
+1038,L02.1,"cutaneous abscess, furuncle and carbuncle of neck",1.0
+1039,L02.2,"cutaneous abscess, furuncle and carbuncle of trunk",1.0
+1040,L02.3,"cutaneous abscess, furuncle and carbuncle of buttock",1.0
+1041,L02.4,"cutaneous abscess, furuncle and carbuncle of limb",1.0
+1042,L02.8,"cutaneous abscess, furuncle and carbuncle of other sites",1.0
+1043,L02.9,"cutaneous abscess, furuncle and carbuncle, unspecified",1.0
+1044,L03,cellulitis,1.0
+1045,L03.0,cellulitis of finger and toe,1.0
+1046,L03.1,cellulitis of other parts of limb,1.0
+1047,L03.2,cellulitis of face,1.0
+1048,L03.3,cellulitis of trunk,1.0
+1049,L03.8,cellulitis of other sites,1.0
+1050,L03.9,"cellulitis, unspecified",1.0
+1051,L05,pilonidal cyst,1.0
+1052,L05.0,pilonidal cyst with abscess,1.0
+1053,L08,other local infections of skin and subcutaneous tissue,1.0
+1054,L08.0,pyoderma,1.0
+1055,L08.1,erythrasma,1.0
+1056,L08.8,other specified local infections of skin and subcutaneous tissue,1.0
+1057,L08.9,"local infection of skin and subcutaneous tissue, unspecified",1.0
+1058,L30.3,infective dermatitis,1.0
+1059,L54.0,erythema marginatum in acute rheumatic fever,1.0
+1060,L98.0,pyogenic granuloma,1.0
+1061,L98.3,eosinophilic cellulitis [wells],1.0
+1062,M00,pyogenic arthritis,1.0
+1063,M00.0,staphylococcal arthritis and polyarthritis,1.0
+1064,M00.00,staphylococcal arthritis and polyarthritis,1.0
+1065,M00.01,staphylococcal arthritis and polyarthritis,1.0
+1066,M00.02,staphylococcal arthritis and polyarthritis,1.0
+1067,M00.03,staphylococcal arthritis and polyarthritis,1.0
+1068,M00.04,staphylococcal arthritis and polyarthritis,1.0
+1069,M00.05,staphylococcal arthritis and polyarthritis,1.0
+1070,M00.06,staphylococcal arthritis and polyarthritis,1.0
+1071,M00.07,staphylococcal arthritis and polyarthritis,1.0
+1072,M00.08,staphylococcal arthritis and polyarthritis,1.0
+1073,M00.09,staphylococcal arthritis and polyarthritis,1.0
+1074,M00.1,pneumococcal arthritis and polyarthritis,1.0
+1075,M00.10,pneumococcal arthritis and polyarthritis,1.0
+1076,M00.11,pneumococcal arthritis and polyarthritis,1.0
+1077,M00.12,pneumococcal arthritis and polyarthritis,1.0
+1078,M00.13,pneumococcal arthritis and polyarthritis,1.0
+1079,M00.14,pneumococcal arthritis and polyarthritis,1.0
+1080,M00.15,pneumococcal arthritis and polyarthritis,1.0
+1081,M00.16,pneumococcal arthritis and polyarthritis,1.0
+1082,M00.17,pneumococcal arthritis and polyarthritis,1.0
+1083,M00.18,pneumococcal arthritis and polyarthritis,1.0
+1084,M00.19,pneumococcal arthritis and polyarthritis,1.0
+1085,M00.2,other streptococcal arthritis and polyarthritis,1.0
+1086,M00.20,other streptococcal arthritis and polyarthritis,1.0
+1087,M00.21,other streptococcal arthritis and polyarthritis,1.0
+1088,M00.22,other streptococcal arthritis and polyarthritis,1.0
+1089,M00.23,other streptococcal arthritis and polyarthritis,1.0
+1090,M00.24,other streptococcal arthritis and polyarthritis,1.0
+1091,M00.25,other streptococcal arthritis and polyarthritis,1.0
+1092,M00.26,other streptococcal arthritis and polyarthritis,1.0
+1093,M00.27,other streptococcal arthritis and polyarthritis,1.0
+1094,M00.28,other streptococcal arthritis and polyarthritis,1.0
+1095,M00.29,other streptococcal arthritis and polyarthritis,1.0
+1096,M00.8,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1097,M00.80,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1098,M00.81,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1099,M00.82,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1100,M00.83,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1101,M00.84,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1102,M00.85,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1103,M00.86,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1104,M00.87,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1105,M00.88,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1106,M00.89,arthritis and polyarthritis due to other specified bacterial agents,1.0
+1107,M00.9,"pyogenic arthritis, unspecified",1.0
+1108,M00.90,"pyogenic arthritis, unspecified",1.0
+1109,M00.91,"pyogenic arthritis, unspecified",1.0
+1110,M00.92,"pyogenic arthritis, unspecified",1.0
+1111,M00.93,"pyogenic arthritis, unspecified",1.0
+1112,M00.94,"pyogenic arthritis, unspecified",1.0
+1113,M00.95,"pyogenic arthritis, unspecified",1.0
+1114,M00.96,"pyogenic arthritis, unspecified",1.0
+1115,M00.97,"pyogenic arthritis, unspecified",1.0
+1116,M00.98,"pyogenic arthritis, unspecified",1.0
+1117,M00.99,"pyogenic arthritis, unspecified",1.0
+1118,M01,direct infections of joint in infectious and parasitic diseases classified elsewhere,1.0
+1119,M01.3,arthritis in other bacterial diseases classified elsewhere,1.0
+1120,M01.30,arthritis in other bacterial diseases classified elsewhere,1.0
+1121,M01.31,arthritis in other bacterial diseases classified elsewhere,1.0
+1122,M01.32,arthritis in other bacterial diseases classified elsewhere,1.0
+1123,M01.33,arthritis in other bacterial diseases classified elsewhere,1.0
+1124,M01.34,arthritis in other bacterial diseases classified elsewhere,1.0
+1125,M01.35,arthritis in other bacterial diseases classified elsewhere,1.0
+1126,M01.36,arthritis in other bacterial diseases classified elsewhere,1.0
+1127,M01.37,arthritis in other bacterial diseases classified elsewhere,1.0
+1128,M01.38,arthritis in other bacterial diseases classified elsewhere,1.0
+1129,M01.39,arthritis in other bacterial diseases classified elsewhere,1.0
+1130,M01.5,arthritis in other viral diseases classified elsewhere,1.0
+1131,M01.50,arthritis in other viral diseases classified elsewhere,1.0
+1132,M01.51,arthritis in other viral diseases classified elsewhere,1.0
+1133,M01.52,arthritis in other viral diseases classified elsewhere,1.0
+1134,M01.53,arthritis in other viral diseases classified elsewhere,1.0
+1135,M01.54,arthritis in other viral diseases classified elsewhere,1.0
+1136,M01.55,arthritis in other viral diseases classified elsewhere,1.0
+1137,M01.56,arthritis in other viral diseases classified elsewhere,1.0
+1138,M01.57,arthritis in other viral diseases classified elsewhere,1.0
+1139,M01.58,arthritis in other viral diseases classified elsewhere,1.0
+1140,M01.59,arthritis in other viral diseases classified elsewhere,1.0
+1141,M01.8,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1142,M01.80,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1143,M01.81,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1144,M01.82,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1145,M01.83,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1146,M01.84,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1147,M01.85,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1148,M01.86,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1149,M01.87,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1150,M01.88,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1151,M01.89,arthritis in other infectious and parasitic diseases classified elsewhere,1.0
+1152,M46.2,osteomyelitis of vertebra,1.0
+1153,M46.20,osteomyelitis of vertebra,1.0
+1154,M46.21,osteomyelitis of vertebra,1.0
+1155,M46.22,osteomyelitis of vertebra,1.0
+1156,M46.23,osteomyelitis of vertebra,1.0
+1157,M46.24,osteomyelitis of vertebra,1.0
+1158,M46.25,osteomyelitis of vertebra,1.0
+1159,M46.26,osteomyelitis of vertebra,1.0
+1160,M46.27,osteomyelitis of vertebra,1.0
+1161,M46.28,osteomyelitis of vertebra,1.0
+1162,M46.29,osteomyelitis of vertebra,1.0
+1163,M46.3,infection of intervertebral disc (pyogenic),1.0
+1164,M46.30,infection of intervertebral disc (pyogenic),1.0
+1165,M46.31,infection of intervertebral disc (pyogenic),1.0
+1166,M46.32,infection of intervertebral disc (pyogenic),1.0
+1167,M46.33,infection of intervertebral disc (pyogenic),1.0
+1168,M46.34,infection of intervertebral disc (pyogenic),1.0
+1169,M46.35,infection of intervertebral disc (pyogenic),1.0
+1170,M46.36,infection of intervertebral disc (pyogenic),1.0
+1171,M46.37,infection of intervertebral disc (pyogenic),1.0
+1172,M46.38,infection of intervertebral disc (pyogenic),1.0
+1173,M46.39,infection of intervertebral disc (pyogenic),1.0
+1174,M46.5,other infective spondylopathies,1.0
+1175,M46.50,other infective spondylopathies,1.0
+1176,M46.51,other infective spondylopathies,1.0
+1177,M46.52,other infective spondylopathies,1.0
+1178,M46.53,other infective spondylopathies,1.0
+1179,M46.54,other infective spondylopathies,1.0
+1180,M46.55,other infective spondylopathies,1.0
+1181,M46.56,other infective spondylopathies,1.0
+1182,M46.57,other infective spondylopathies,1.0
+1183,M46.58,other infective spondylopathies,1.0
+1184,M46.59,other infective spondylopathies,1.0
+1185,M49.2,enterobacterial spondylitis,1.0
+1186,M49.20,enterobacterial spondylitis,1.0
+1187,M49.21,enterobacterial spondylitis,1.0
+1188,M49.22,enterobacterial spondylitis,1.0
+1189,M49.23,enterobacterial spondylitis,1.0
+1190,M49.24,enterobacterial spondylitis,1.0
+1191,M49.25,enterobacterial spondylitis,1.0
+1192,M49.26,enterobacterial spondylitis,1.0
+1193,M49.27,enterobacterial spondylitis,1.0
+1194,M49.28,enterobacterial spondylitis,1.0
+1195,M49.29,enterobacterial spondylitis,1.0
+1196,M49.3,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1197,M49.30,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1198,M49.31,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1199,M49.32,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1200,M49.33,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1201,M49.34,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1202,M49.35,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1203,M49.36,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1204,M49.37,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1205,M49.38,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1206,M49.39,spondylopathy in other infectious and parasitic diseases classified elsewhere,1.0
+1207,M60.0,infective myositis,1.0
+1208,M60.00,infective myositis,1.0
+1209,M60.01,infective myositis,1.0
+1210,M60.02,infective myositis,1.0
+1211,M60.03,infective myositis,1.0
+1212,M60.04,infective myositis,1.0
+1213,M60.05,infective myositis,1.0
+1214,M60.06,infective myositis,1.0
+1215,M60.07,infective myositis,1.0
+1216,M60.08,infective myositis,1.0
+1217,M60.09,infective myositis,1.0
+1218,M63.0,myositis in bacterial diseases classified elsewhere,1.0
+1219,M63.1,myositis in protozoal and parasitic infections classified elsewhere,1.0
+1220,M63.2,myositis in other infectious diseases classified elsewhere,1.0
+1221,M65.0,abscess of tendon sheath,1.0
+1222,M65.00,abscess of tendon sheath,1.0
+1223,M65.01,abscess of tendon sheath,1.0
+1224,M65.02,abscess of tendon sheath,1.0
+1225,M65.03,abscess of tendon sheath,1.0
+1226,M65.04,abscess of tendon sheath,1.0
+1227,M65.05,abscess of tendon sheath,1.0
+1228,M65.06,abscess of tendon sheath,1.0
+1229,M65.07,abscess of tendon sheath,1.0
+1230,M65.08,abscess of tendon sheath,1.0
+1231,M65.09,abscess of tendon sheath,1.0
+1232,M65.1,other infective (teno)synovitis,1.0
+1233,M65.10,other infective (teno)synovitis,1.0
+1234,M65.11,other infective (teno)synovitis,1.0
+1235,M65.12,other infective (teno)synovitis,1.0
+1236,M65.13,other infective (teno)synovitis,1.0
+1237,M65.14,other infective (teno)synovitis,1.0
+1238,M65.15,other infective (teno)synovitis,1.0
+1239,M65.16,other infective (teno)synovitis,1.0
+1240,M65.17,other infective (teno)synovitis,1.0
+1241,M65.18,other infective (teno)synovitis,1.0
+1242,M65.19,other infective (teno)synovitis,1.0
+1243,M68.0,synovitis and tenosynovitis in bacterial diseases classified elsewhere,1.0
+1244,M71.0,abscess of bursa,1.0
+1245,M71.00,abscess of bursa,1.0
+1246,M71.01,abscess of bursa,1.0
+1247,M71.02,abscess of bursa,1.0
+1248,M71.03,abscess of bursa,1.0
+1249,M71.04,abscess of bursa,1.0
+1250,M71.05,abscess of bursa,1.0
+1251,M71.06,abscess of bursa,1.0
+1252,M71.07,abscess of bursa,1.0
+1253,M71.08,abscess of bursa,1.0
+1254,M71.09,abscess of bursa,1.0
+1255,M71.1,other infective bursitis,1.0
+1256,M71.10,other infective bursitis,1.0
+1257,M71.11,other infective bursitis,1.0
+1258,M71.12,other infective bursitis,1.0
+1259,M71.13,other infective bursitis,1.0
+1260,M71.14,other infective bursitis,1.0
+1261,M71.15,other infective bursitis,1.0
+1262,M71.16,other infective bursitis,1.0
+1263,M71.17,other infective bursitis,1.0
+1264,M71.18,other infective bursitis,1.0
+1265,M71.19,other infective bursitis,1.0
+1266,M86,osteomyelitis,1.0
+1267,M86.0,acute haematogenous osteomyelitis,1.0
+1268,M86.00,acute haematogenous osteomyelitis,1.0
+1269,M86.01,acute haematogenous osteomyelitis,1.0
+1270,M86.02,acute haematogenous osteomyelitis,1.0
+1271,M86.03,acute haematogenous osteomyelitis,1.0
+1272,M86.04,acute haematogenous osteomyelitis,1.0
+1273,M86.05,acute haematogenous osteomyelitis,1.0
+1274,M86.06,acute haematogenous osteomyelitis,1.0
+1275,M86.07,acute haematogenous osteomyelitis,1.0
+1276,M86.08,acute haematogenous osteomyelitis,1.0
+1277,M86.09,acute haematogenous osteomyelitis,1.0
+1278,M86.1,other acute osteomyelitis,1.0
+1279,M86.10,other acute osteomyelitis,1.0
+1280,M86.11,other acute osteomyelitis,1.0
+1281,M86.12,other acute osteomyelitis,1.0
+1282,M86.13,other acute osteomyelitis,1.0
+1283,M86.14,other acute osteomyelitis,1.0
+1284,M86.15,other acute osteomyelitis,1.0
+1285,M86.16,other acute osteomyelitis,1.0
+1286,M86.17,other acute osteomyelitis,1.0
+1287,M86.18,other acute osteomyelitis,1.0
+1288,M86.19,other acute osteomyelitis,1.0
+1289,M86.2,subacute osteomyelitis,1.0
+1290,M86.20,subacute osteomyelitis,1.0
+1291,M86.21,subacute osteomyelitis,1.0
+1292,M86.22,subacute osteomyelitis,1.0
+1293,M86.23,subacute osteomyelitis,1.0
+1294,M86.24,subacute osteomyelitis,1.0
+1295,M86.25,subacute osteomyelitis,1.0
+1296,M86.26,subacute osteomyelitis,1.0
+1297,M86.27,subacute osteomyelitis,1.0
+1298,M86.28,subacute osteomyelitis,1.0
+1299,M86.29,subacute osteomyelitis,1.0
+1300,M86.5,other chronic haematogenous osteomyelitis,1.0
+1301,M86.50,other chronic haematogenous osteomyelitis,1.0
+1302,M86.51,other chronic haematogenous osteomyelitis,1.0
+1303,M86.52,other chronic haematogenous osteomyelitis,1.0
+1304,M86.53,other chronic haematogenous osteomyelitis,1.0
+1305,M86.54,other chronic haematogenous osteomyelitis,1.0
+1306,M86.55,other chronic haematogenous osteomyelitis,1.0
+1307,M86.56,other chronic haematogenous osteomyelitis,1.0
+1308,M86.57,other chronic haematogenous osteomyelitis,1.0
+1309,M86.58,other chronic haematogenous osteomyelitis,1.0
+1310,M86.59,other chronic haematogenous osteomyelitis,1.0
+1311,M86.8,other osteomyelitis,1.0
+1312,M86.80,other osteomyelitis,1.0
+1313,M86.81,other osteomyelitis,1.0
+1314,M86.82,other osteomyelitis,1.0
+1315,M86.83,other osteomyelitis,1.0
+1316,M86.84,other osteomyelitis,1.0
+1317,M86.85,other osteomyelitis,1.0
+1318,M86.86,other osteomyelitis,1.0
+1319,M86.87,other osteomyelitis,1.0
+1320,M86.88,other osteomyelitis,1.0
+1321,M86.89,other osteomyelitis,1.0
+1322,M86.9,"osteomyelitis, unspecified",1.0
+1323,M86.90,"osteomyelitis, unspecified",1.0
+1324,M86.91,"osteomyelitis, unspecified",1.0
+1325,M86.92,"osteomyelitis, unspecified",1.0
+1326,M86.93,"osteomyelitis, unspecified",1.0
+1327,M86.94,"osteomyelitis, unspecified",1.0
+1328,M86.95,"osteomyelitis, unspecified",1.0
+1329,M86.96,"osteomyelitis, unspecified",1.0
+1330,M86.97,"osteomyelitis, unspecified",1.0
+1331,M86.98,"osteomyelitis, unspecified",1.0
+1332,M86.99,"osteomyelitis, unspecified",1.0
+1333,M90.1,periostitis in other infectious diseases classified elsewhere,1.0
+1334,M90.10,periostitis in other infectious diseases classified elsewhere,1.0
+1335,M90.11,periostitis in other infectious diseases classified elsewhere,1.0
+1336,M90.12,periostitis in other infectious diseases classified elsewhere,1.0
+1337,M90.13,periostitis in other infectious diseases classified elsewhere,1.0
+1338,M90.14,periostitis in other infectious diseases classified elsewhere,1.0
+1339,M90.15,periostitis in other infectious diseases classified elsewhere,1.0
+1340,M90.16,periostitis in other infectious diseases classified elsewhere,1.0
+1341,M90.17,periostitis in other infectious diseases classified elsewhere,1.0
+1342,M90.18,periostitis in other infectious diseases classified elsewhere,1.0
+1343,M90.19,periostitis in other infectious diseases classified elsewhere,1.0
+1344,M90.2,osteopathy in other infectious diseases classified elsewhere,1.0
+1345,M90.20,osteopathy in other infectious diseases classified elsewhere,1.0
+1346,M90.21,osteopathy in other infectious diseases classified elsewhere,1.0
+1347,M90.22,osteopathy in other infectious diseases classified elsewhere,1.0
+1348,M90.23,osteopathy in other infectious diseases classified elsewhere,1.0
+1349,M90.24,osteopathy in other infectious diseases classified elsewhere,1.0
+1350,M90.25,osteopathy in other infectious diseases classified elsewhere,1.0
+1351,M90.26,osteopathy in other infectious diseases classified elsewhere,1.0
+1352,M90.27,osteopathy in other infectious diseases classified elsewhere,1.0
+1353,M90.28,osteopathy in other infectious diseases classified elsewhere,1.0
+1354,M90.29,osteopathy in other infectious diseases classified elsewhere,1.0
+1355,N08.0,glomerular disorders in infectious and parasitic diseases classified elsewhere,1.0
+1356,N15.1,renal and perinephric abscess,1.0
+1357,N16.0,renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere,1.0
+1358,N29.1,other disorders of kidney and ureter in infectious and parasitic diseases classified elsewhere,1.0
+1359,N30.0,acute cystitis,1.0
+1360,N34.0,urethral abscess,1.0
+1361,N39.0,"urinary tract infection, site not specified",1.0
+1362,N41.0,acute prostatitis,1.0
+1363,N41.2,abscess of prostate,1.0
+1364,N43.1,infected hydrocele,1.0
+1365,N45.0,"orchitis, epididymitis and epididymo-orchitis with abscess",1.0
+1366,N51,disorders of male genital organs in diseases classified elsewhere,1.0
+1367,N51.0,disorders of prostate in diseases classified elsewhere,1.0
+1368,N51.1,disorders of testis and epididymis in diseases classified elsewhere,1.0
+1369,N51.2,balanitis in diseases classified elsewhere,1.0
+1370,N51.8,other disorders of male genital organs in diseases classified elsewhere,1.0
+1371,N73.0,acute parametritis and pelvic cellulitis,1.0
+1372,N73.2,unspecified parametritis and pelvic cellulitis,1.0
+1373,N74.0,tuberculous infection of cervix uteri,1.0
+1374,N75.1,abscess of bartholin gland,1.0
+1375,N76.4,abscess of vulva,1.0
+1376,N77.0,ulceration of vulva in infectious and parasitic diseases classified elsewhere,1.0
+1377,N77.1,"vaginitis, vulvitis and vulvovaginitis in infectious and parasitic diseases classified elsewhere",1.0
+1378,N98.0,infection associated with artificial insemination,1.0
+1379,O07.0,"failed medical abortion, complicated by genital tract and pelvic infection",1.0
+1380,O07.5,"other and unspecified failed attempted abortion, complicated by genital tract and pelvic infection",1.0
+1381,O08.0,genital tract and pelvic infection following abortion and ectopic and molar pregnancy,1.0
+1382,O23,infections of genitourinary tract in pregnancy,1.0
+1383,O23.0,infections of kidney in pregnancy,1.0
+1384,O23.1,infections of bladder in pregnancy,1.0
+1385,O23.2,infections of urethra in pregnancy,1.0
+1386,O23.3,infections of other parts of urinary tract in pregnancy,1.0
+1387,O23.4,unspecified infection of urinary tract in pregnancy,1.0
+1388,O23.5,infections of the genital tract in pregnancy,1.0
+1389,O23.9,other and unspecified genitourinary tract infection in pregnancy,1.0
+1390,O35.3,maternal care for (suspected) damage to fetus from viral disease in mother,1.0
+1391,O41.1,infection of amniotic sac and membranes,1.0
+1392,O75.3,other infection during labour,1.0
+1393,O85,puerperal sepsis,1.0
+1394,O86,other puerperal infections,1.0
+1395,O86.0,infection of obstetric surgical wound,1.0
+1396,O86.1,other infection of genital tract following delivery,1.0
+1397,O86.2,urinary tract infection following delivery,1.0
+1398,O86.3,other genitourinary tract infections following delivery,1.0
+1399,O86.8,other specified puerperal infections,1.0
+1400,O88.3,obstetric pyaemic and septic embolism,1.0
+1401,O91,infections of breast associated with childbirth,1.0
+1402,O91.0,infection of nipple associated with childbirth,1.0
+1403,O91.1,abscess of breast associated with childbirth,1.0
+1404,O98,"maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",1.0
+1405,O98.3,"other infections with a predominantly sexual mode of transmission complicating pregnancy, childbirth and the puerperium",1.0
+1406,O98.4,"viral hepatitis complicating pregnancy, childbirth and the puerperium",1.0
+1407,O98.5,"other viral diseases complicating pregnancy, childbirth and the puerperium",1.0
+1408,O98.8,"other maternal infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium",1.0
+1409,O98.9,"unspecified maternal infectious or parasitic disease complicating pregnancy, childbirth and the puerperium",1.0
+1410,P00.2,fetus and newborn affected by maternal infectious and parasitic diseases,1.0
+1411,P36,bacterial sepsis of newborn,1.0
+1412,P36.0,"sepsis of newborn due to streptococcus, group b",1.0
+1413,P36.1,sepsis of newborn due to other and unspecified streptococci,1.0
+1414,P36.2,sepsis of newborn due to staphylococcus aureus,1.0
+1415,P36.3,sepsis of newborn due to other and unspecified staphylococci,1.0
+1416,P36.4,sepsis of newborn due to escherichia coli,1.0
+1417,P36.5,sepsis of newborn due to anaerobes,1.0
+1418,P36.8,other bacterial sepsis of newborn,1.0
+1419,P36.9,"bacterial sepsis of newborn, unspecified",1.0
+1420,P39,other infections specific to the perinatal period,1.0
+1421,P39.0,neonatal infective mastitis,1.0
+1422,P39.2,"intra-amniotic infection of fetus, not elsewhere classified",1.0
+1423,P39.3,neonatal urinary tract infection,1.0
+1424,P39.4,neonatal skin infection,1.0
+1425,P39.8,other specified infections specific to the perinatal period,1.0
+1426,P39.9,"infection specific to the perinatal period, unspecified",1.0
+1427,P58.2,neonatal jaundice due to infection,1.0
+1428,R57.2,septic shock,1.0
+1429,R65.1,systemic inflammatory response syndrome of infectious origin with organ failure,1.0
+1430,T79.3,"post-traumatic wound infection, not elsewhere classified",1.0
+1431,T80.2,"infections following infusion, transfusion and therapeutic injection",1.0
+1432,T81.4,"infection following a procedure, not elsewhere classified",1.0
+1433,T82.6,infection and inflammatory reaction due to cardiac valve prosthesis,1.0
+1434,T82.7,"infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts",1.0
+1435,T83.5,"infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system",1.0
+1436,T83.6,"infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract",1.0
+1437,T84.5,infection and inflammatory reaction due to internal joint prosthesis,1.0
+1438,T84.6,infection and inflammatory reaction due to internal fixation device [any site],1.0
+1439,T84.7,"infection and inflammatory reaction due to other internal orthopaedic prosthetic devices, implants and grafts",1.0
+1440,T85.7,"infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts",1.0
+1441,T87.4,infection of amputation stump,1.0
